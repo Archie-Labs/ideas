@@ -6,5 +6,5 @@ This is a repo to store your project ideas and find people to collaborate with. 
 Keep the description to one or two sentences. Try to maximize the following three points:
 - Motivation
 - Function (how it works)
-- ~Target audience~
+- Target audience
 
