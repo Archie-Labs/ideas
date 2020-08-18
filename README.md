@@ -1,0 +1,2 @@
+# ideas
+Storing our ideas
